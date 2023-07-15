@@ -1,0 +1,148 @@
+Formatting tags
+Physical, logical
+
+1. Bold text
+<b> </b>
+
+<strong> </strong>
+
+2. Italic
+<i> </i>
+
+3. Marked 
+this is
+<mark> </mark>
+
+4. Underline 
+<u> </u>
+
+5.strike 
+<strike> </strike>
+
+
+6.larger text
+<big> </big>
+
+small <small> </small>
+
+superscript  <sup> </sup>
+
+<sub> </sub>
+
+<tt> </tt>
+
+
+7. List
+  <li> </li>
+ordered list   <ol> </ol>
+unordered list <ul> </ul>
+disordered list <dl> </dl>
+define <dd> </dd>
+
+crate e certificate
+
+
+link 
+
+
+<a> </a>
+<a href="">tag</a>
+
+<a href= "format.html">click for formatting page</a>
+
+<p> click on  <a href= "format.html" target = "_blank"> formatting tags<?a> in new window 
+
+
+
+image 
+
+<img>
+
+withot path
+
+<img src="image1.jpg">
+<img
+
+
+Without path 
+<img src="Hydrangeas.jpg" >  
+<img src="Hydrangeas.jpg"  height="180" width="300" alt="Flower image">
+With complete Path
+<img src=“C:\Users\Public\Pictures\Sample Pictures\ Hydrangeas.jpg” height="180" width="300" alt="Flower image" >
+
+
+colour
+
+<font color="green">Training Class   <br>  </font>
+
+<font color="CadetBlue3  "> 3c23  </font><br>
+
+#7ac5cd
+
+Form
+
+text, label, radio button,check box,submit
+
+
+<form> </form>
+
+
+name
+address
+number
+catogory    radio
+eginition   check box
+subject     checkbox
+
+
+
+
+table
+<table> </table>
+
+row
+<tr> </tr>
+entry
+<td></td>
+thread for field name
+
+<th> </th>
+
+caption
+<cation> </cation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
